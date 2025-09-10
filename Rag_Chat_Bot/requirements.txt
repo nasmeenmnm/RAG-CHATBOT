@@ -1,0 +1,13 @@
+google-genai>=1.33.0
+ipykernel>=6.30.1
+langchain>=0.3.27
+langchain-community>=0.3.29
+langchain-core>=0.3.75
+langchain-google-genai>=2.1.10
+langchain-pinecone>=0.2.12
+matplotlib>=3.10.6
+numpy>=2.3.2
+pandas>=2.3.2
+pinecone[grpc]>=7.3.0
+pypdf>=6.0.0
+python-dotenv>=1.1.1
