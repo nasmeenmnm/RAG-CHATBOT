@@ -24,7 +24,4 @@ The chatbot allows users to **upload PDF files**, stores the document embeddings
 - **Framework**: [LangChain](https://www.langchain.com/)
 - **Frontend**: HTML + CSS + JAVASCRIPT
 
----
-
-## 📂 Project Structure
 
